@@ -1,7 +1,7 @@
 # Space Missions Analysis
-the dataset was obtained from:
 
-https://www.mavenanalytics.io/data-playground?page=2
+the dataset was obtained from: https://www.mavenanalytics.io/data-playground?page=2
+the image was obtained from: https://www.pexels.com/search/The%20Orion%20Nebula/?orientation=landscape&color=9C27B0
 
 Space Missions:
 
